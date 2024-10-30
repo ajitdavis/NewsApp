@@ -1,0 +1,3 @@
+com.example.newsgenz.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
